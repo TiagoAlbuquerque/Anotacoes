@@ -76,6 +76,6 @@ DICAS:
 
 Faça questões da banca examinadora de seu próximo certame.
 
-[Questões da Cespe](http://www.qconcursos.com/questoes-de-concurso/questoes/search?nao_lresolvidas=true&organizadora=2&disciplina=1&assunto=14655)
+[Questões da Cespe](http://www.qconcursos.com/questoes-de-concurso/questoes/search?nao_resolvidas=true&organizadora=2&disciplina=1&assunto=14655)
 
-[Questões da FCC](http://www.qconcursos.com/questoes-de-concurso/questoes/search?nao_lresolvidas=true&organizadora=1&disciplina=1&assunto=14655)
+[Questões da FCC](http://www.qconcursos.com/questoes-de-concurso/questoes/search?nao_resolvidas=true&organizadora=1&disciplina=1&assunto=14655)
