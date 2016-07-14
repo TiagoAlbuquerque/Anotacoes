@@ -325,8 +325,8 @@ Para tanto é preciso empregar o pronome correto, que deixe o texto preciso e li
 No caso do exemplo, os pronomes corretos são dele, dela ou deles.
 
 
-*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados **dele** nas provas.*  
-*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados **dela** nas provas.*  
-*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados **deles** nas provas.*
+*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados __dele__ nas provas.*  
+*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados dela nas provas.*  
+*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados deles nas provas.*
 
 
