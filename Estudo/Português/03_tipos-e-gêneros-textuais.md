@@ -241,9 +241,9 @@ Desta forma o leitor poderá visualizar a história.
 Quanto mais rica a descrição dentro de uma narração, mais imerso na história ficará o leitor, e mais rico será o texto.
 A descrição também costuma aparecer em textos narrativos jornalísticos, como em notícias.
 
-*A maior diferença está no **tempo**.
+*A maior diferença está no __tempo__.
 Na narração o tempo é um elemento da narrativa.
-Na descrição não há passagem de **tempo**.
+Na descrição não há passagem de __tempo__.
 Descreve-se o objeto em um determinado instante fixo.*
 
 ## Texto argumentativo

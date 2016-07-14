@@ -21,14 +21,20 @@ Ela se dá de duas maneiras:
     Reliza-se por meio de pronomes pessoais de 3a pessoa (retos e oblíquos) e os demais pronomes
     Também por numerais, adverbios e artigos.
 
-    Exemplo: *André e Pedro são fanáticos torcedores de futebol. Apesar d**isso**, são diferentes. **Este** não briga com quem torce para outro time; **aquele o faz**.*
+    Exemplo: *André e Pedro são fanáticos torcedores de futebol. 
+        Apesar d__isso__, são diferentes.
+        __Este__ não briga com quem torce para outro time; __aquele o faz__.*
 
-    Explicação: O termo **isso** retoma o predicado *são fanáticos torcedores de futebol*; **Este** recupera a palavra *Pedro*;**aquele**, o termo *André*; **o faz**, o predicado *briga com quem torce para outro time* - são **anafóricos**.
+    Explicação: O termo **isso** retoma o predicado *são fanáticos torcedores de futebol*;
+        **Este** recupera a palavra *Pedro*;
+        **aquele**, o termo *André*;
+        **o faz**, o predicado *briga com quem torce para outro time* - são **anafóricos**.
 1. Catafórica(para frente).
 
     Remissão **catafórica** realiza-se, normalmente, com uso de pronomes demonstrativos ou indefindos neutros, ou nomes genéricos, mas pode ocorrer também com os outros pronomes, adverbios e numerais.
 
-    Exemplo: *Qualquer que tivesse sido **seu** trabalho anterior, **ele** o abandonara, mudara de profissão e passara pesadamente a ensinar no curso primário: era tudo o que sabíamos d**ele**, o professor, gordo e silencioso, de ombros contraídos*.
+    Exemplo: *Qualquer que tivesse sido __seu__ trabalho anterior, __ele__ o abandonara, mudara de profissão e passara pesadamente a ensinar no curso primário: 
+        era tudo o que sabíamos d__ele__, o professor, gordo e silencioso, de ombros contraídos*.
 
     Explicação: O pronome possessivo **seu** e o pronome pessoal reto **ele** antecipam a expressão *o professor* - são **catafóricos**
 
