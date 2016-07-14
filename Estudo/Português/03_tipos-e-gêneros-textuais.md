@@ -8,15 +8,15 @@ Escolher o gênero textual depende:
 
 1. da finalidade do texto -
 
-    qual a finalidade do texto, o que se pretende com ele.
+    Qual a finalidade do texto, o que se pretende com ele.
 
 1. dos interlocutores -
 
-    leva-se em consideração para quem se destina o texto, qual a função do destinatário ou interlocutor, há uma hierarquia.
+    Leva-se em consideração para quem se destina o texto, qual a função do destinatário ou interlocutor, há uma hierarquia.
 
 1. da situação -
 
-    normalmente observa-se se a situação é formal ou informal.
+    Normalmente observa-se se a situação é formal ou informal.
     Se a comunicação deve ser rápida ou não.
 
 É impossível quantificar os gêneros textuais.
@@ -99,6 +99,15 @@ Portanto, é interessante conhecer mais a fundo os principais tipos e alguns out
 
 ## Texto narrativo
 
+O texto narrativo tem a caracteriística de relatar fatos, reais ou fictícios, em uma sequência temporal.
+Para que o relato tenha sentido são empregados os *elementos da narativa*
+
+* Personagens
+
+    são os seres que participam da narrativa.
+    Os que ocupam lugar de destaque são chamados de **protagonistas**.
+    Os que se opôes à estes são chamados de **antagonistas**.
+
 ## Relato (Descrição)
 
 ### Descrição x Narração
@@ -139,10 +148,41 @@ Alguns deles são:
 
 ### Editorial
 
+Os editoriais são publicados em jornais e revistas.
+Seu conteúdo expressa a **opinião** da empresa, da direção, ou da equipe de redação.
+Não há obrigação de se ater à imparcialidade ou objetividade.
+Se trata de um texto **opinativo** e não informativo.
+Editoriais maiores e mais analíticos são chamados de **artigos de fundo**, mas contém a mesma essência.
+
+A opinião de um jornal ou revista não é expressada *exclusivamente* no editoriais,
+  é expressa também na forma como os assuntos são organizados, pela qualidade e quantidade que atribui a cada matéria , etc.
+Em casos em que as prórpias matérias dos jornais possuem uma carga opinativa muito forte, 
+   mas não são separadas em editoriais, 
+   diz-se que é **Jornalismode opinião**.
+
 ### Artigo de opinião
+
+Artigos de opinião são espaços sedidos aos leitores, espectadores ou ouvintes.
+Aqui, o autor pode expressar sua posição com relação a temas polêmicos.
+
+Nos gêneros argumentativos em geral, o autor tem a intenção de convencer seu interlocutores.
+Para isso, precisa apresentar bons argumentos, que consistem de verdades e opiniões.
+
+Artigos de opinião são mais fundamentados na opinião do autor, por isso são fáceis de contestar.
 
 ### Charge
 
-## Texto expositivo
+A charge normalmente apresenta linguagem mista (palavras e imagens) e um discurso humorístico.
+São desenhos elaborados por cartunistas que captam de maneira perspicaz as diversas situações do cotidiano.
+O propósito é transpor algum tipo de crítica ou opinião utilizando-se da ironia.
 
-## Texto instrucional
+A charge é um texto de opinião.
+Normalmente são publicadas entre artigos de opinião, editoriais e cartas de leitores.
+Nela estão inscritas diversas informações construídas por um processo intertextual com o cotidiano.
+Este processo obriga o interlocutor a fazer **inferências e analogias**.
+Sem estes elementos a compreensão textual ficaria comprometida.
+
+A charge raramente é um texto meramente engraçado e inocente.
+É um gênero textual rico, que critica personalidaes, política, sociedade e outros temas relevantes.
+Seu principal objetivo é estabelecer uma opinião crítica e, através dos elementos visuais e verbais, persuadir o leitor.
+
