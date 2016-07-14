@@ -314,7 +314,7 @@ Toda e qualquer interlocução só se torna meterializada se estiver clara, obje
 A ambiguidade se configura com a possibilidade de dupla interpretação daquilo que foi falado ou escrito, dificultanto a mensagem.
 É ocasionada pelo emprego inadequado de alguns pronomes, mais especificamente, os possessivos.
 
-Exemplo: *Tão logo encontrou Marcela, Paulo fez comentários acerca de **seus** excelentes resultados nas provas.*
+Exemplo: *Tão logo encontrou Marcela, Paulo fez comentários acerca de __seus__ excelentes resultados nas provas.*
 
 De quem foram os excelentes resultados?
 A falta de clareza na messagem te origem no uso do pronome **seus**, pois os comentários feitos por paulo podem estar se referindo aos resultados de Marcela, aos dele ou até mesmo aos de ambos.
@@ -325,8 +325,8 @@ Para tanto é preciso empregar o pronome correto, que deixe o texto preciso e li
 No caso do exemplo, os pronomes corretos são dele, dela ou deles.
 
 
-*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados **dele** nas provas.*  
-*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados **dela** nas provas.*  
-*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados **deles** nas provas.*
+*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados __dele__ nas provas.*  
+*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados __dela__ nas provas.*  
+*Tão logo encontrou Marcela, Paulo fez comentários acerca dos excelentes resultados __deles__ nas provas.*
 
 
