@@ -4,9 +4,9 @@
 
 **Projeto** é um esforço **temporário** empreendido para criar um _produto_, _serviço_ ou _resultado exclusivo_.
 Por sua natureza **temporária**, têm datas de início e fim _definidas_.
-Estarão concluídos quando as respectivas metas e objetivos forem cumpridos.
-Servem para lançar um produto novo ou serviço que não existia anteriormente.
-Também podem simplesmente produzir resultados, como os resultados de uma pesquisa, ou até mesmo um estudo de viabilidade.
+Estará concluído quando as respectivas metas e objetivos forem cumpridos.
+Serve para lançar um produto novo ou serviço que não existia anteriormente.
+Também pode simplesmente produzir resultados, como os resultados de uma pesquisa, ou até mesmo um estudo de viabilidade.
 
 As **operações**, por sua vez, são contínuas e repetitivas.
 Mantêm a organização funcionando.
@@ -50,3 +50,5 @@ Podemos destacar:
 * Coaching
 
 ## Projetos X Programas X Portfólios
+
+
