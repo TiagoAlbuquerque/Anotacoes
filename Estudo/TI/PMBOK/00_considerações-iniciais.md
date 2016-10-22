@@ -14,7 +14,7 @@ Fazem parte do cotidiano da organização.
 
 _Projetos podem resultar em novas operações.
 Por exemplo, um projeto de lançamento de um veículo novo por uma montadora resulta em uma nova linha de produção de veículos.
-Essa nova linha de produção passa a ser uma operação da montadora._
+A nova linha de produção passa a ser uma operação da montadora._
 
 ## Gerenciamento de projetos
 
@@ -51,4 +51,22 @@ Podemos destacar:
 
 ## Projetos X Programas X Portfólios
 
+Em organizações mais madura o gerenciamento de projetos ocorre dentro de um contexto mais amplo.
+Multiplos projetos individuais são agregados em programas e os dois anteriores pode ainda ser agrupados em portfólios.
 
+* Gerenciamento de programas
+    
+    Um programa pode ser definido como um grupo de _projetos_ relacionados de modo coordenado.
+    O objetivo é _obter benefícios e controle_ que não seriam possíveis se cada projeto fosse gerenciado individualmente.
+    Os programas incluem projetos e **tarefas extra-projeto**.
+    Seu foco está no relacionamento das interdependências dos projetos.
+    
+    É o gerenciamento coordenado e centralizado de programas para atingir objetivos e benefícios estratégicos **do programa**.
+    Os projetos dentro de um programa pode ser relacionados por um **resultado comum** ou pela **capacidade coletiva**.
+
+    A relação entre os projetos não pode ser apenas um cliente, vendedor, tecnologia ou recurso compartilhado.
+    Neste caso o esforço deve ser gerido em um portfólio de projetos e não como um programa.
+    
+* Gerenciamento de portfólios
+
+    as
