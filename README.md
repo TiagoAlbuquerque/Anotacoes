@@ -1,9 +1,9 @@
 ```mermaid
 graph TD
-    A[População de Pacientes Elegíveis] --> B{Randomização};
-    B --> C[Grupo Intervenção <br> (Recebe o novo tratamento)];
-    B --> D[Grupo Controle <br> (Recebe o comparador)];
-    C --> E{Acompanhamento e Medição do Desfecho};
+    A[Pop] --> B{Rand};
+    B --> C[Grup];
+    B --> D[Controle];
+    C --> E{Acomp};
     D --> E;
-    E --> F[Análise Comparativa dos Resultados];
+    E --> F[A];
 ```
