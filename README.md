@@ -17,9 +17,10 @@ graph TD
     
     E --> F{"Qual a Hipótese Diagnóstica Principal?"};
     
-    F -- "Quadro de crupe que piora, toxemia, febre alta, secreção purulenta" --> I["Suspeita: Traqueíte Bacteriana"];
-    F -- "Pródromos virais, tosse 'metálica', febre baixa" --> G["Suspeita: Laringite Viral (Crupe)"];
     F -- "Início súbito, febre alta, toxemia, sialorreia, posição tripé" --> H["Suspeita: Epiglotite"];
+    F -- "Quadro de crupe que piora, toxemia, febre alta, secreção purulenta" --> I["Suspeita: Traqueíte Bacteriana"];
+    F -- "Voz abafada, disfagia, torcicolo, febre" --> J["Suspeita: Abscesso Profundo (Retrofaríngeo)"];
+    F -- "Pródromos virais, tosse 'metálica', febre baixa" --> G["Suspeita: Laringite Viral (Crupe)"];
     G --> G1["Aplicar Escore de Westley"];
     G1 --> G2{"Classificação da Gravidade?"};
     G2 -- "Leve (≤2)" --> G3["Dexametasona VO/IM (dose única) <br/> Alta com orientações"];
@@ -35,7 +36,6 @@ graph TD
     
     I --> I1["Internação Hospitalar <br/> Antibioticoterapia IV <br/> Avaliação para Broncoscopia"];
     
-    F -- "Voz abafada, disfagia, torcicolo, febre" --> J["Suspeita: Abscesso Profundo (Retrofaríngeo)"];
     J --> J1["Solicitar Imagem (RX cervical lateral / TC) <br/> Avaliação Cirúrgica + Antibioticoterapia IV"];
 
     style D fill:#ff4d4d,stroke:#333,stroke-width:2px,color:#fff
